@@ -7,8 +7,7 @@
 > The website is made to serve as a tool to conduct the recruitment exam for organisations within the institution to help them get started faster with the process and make it convenient.
 
 --- 
-[![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](http://easyrecruit.stcvit.in/)
-
+[![Download ](https://img.shields.io/badge/-Get%20the%20link%20to%20the%20Website-brightgreen)](http://easyrecruit.stcvit.in/)
 ## Getting Started
 To start the project , clone the repo and type 
 
